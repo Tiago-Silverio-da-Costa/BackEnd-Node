@@ -8,6 +8,6 @@
 [X] Não é permitido o cadastro por usuários que não sejam administrares
 
 - Cadastro de elogios
-[ ] não é permitido um usuário cadastrar um elogio para si
-[ ] Não é permitido cadastrar para usuários inválidos
-[ ] O usuário precisa estar autenticado na aplicação
+[X] não é permitido um usuário cadastrar um elogio para si
+[X] Não é permitido cadastrar para usuários inválidos
+[X] O usuário precisa estar autenticado na aplicação
